@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/21 13:23:56.000.601,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/03 07:23:04.000.900,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 11:01:31.000.086,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 11:12:56.263,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 11:49:40.527,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/04/06 11:52:17.911,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/06 11:53:27.313,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/04/06 11:54:50.898,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/04/06 11:55:59.128,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2020/04/06 11:56:24.580,=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020/04/06 12:26:13.218,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit1.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 12:26:13.218,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit1.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:15.840,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit2.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:15.840,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit2.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/04/06 12:26:17.946,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit7.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:17.946,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit7.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2020/04/06 12:26:20.878,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit6.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2020/04/06 12:26:20.878,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit6.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:22.990,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit5.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:22.990,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit5.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/04/06 12:26:25.285,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit4.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:25.285,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit4.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/04/06 12:26:27.804,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit3.pas=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/06 12:26:27.804,C:\Users\Near\Downloads\DESIGN_UI_PART1\Unit3.dfm=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2020/04/06 12:26:30.047,C:\Users\Near\Downloads\DESIGN_UI_PART1\Project1.dproj=C:\Users\Near\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
